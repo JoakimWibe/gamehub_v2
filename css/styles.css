@@ -9,5 +9,5 @@ body{
 
 header{
     background-color: #1B203D;
-    max-height: 200px;
+    min-height: 200px;
 }
